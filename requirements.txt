@@ -1,0 +1,4 @@
+Python 3.9.12 in base envir
+pip install opencv-contrib-python==4.8.1.78
+pip install numpy==1.20.0
+pip install opencv-python==4.8.0.74
